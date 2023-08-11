@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dheeraj Parmar</h1>
-<h3 align="center">A passionate Backend developer & Data Engineer enthusiast from India</h3>
+<h3 align="center">A passionate Backend developer & Data Engineering enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dheerajparmar22&label=Profile%20views&color=0e75b6&style=flat" alt="dheerajparmar22" /> </p>
 
